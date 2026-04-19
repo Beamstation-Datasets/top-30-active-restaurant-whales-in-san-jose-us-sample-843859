@@ -1,12 +1,12 @@
 {
-  "export_job_id": "526f6a5c-ba80-4c02-9aa8-04ed51eff9b5",
+  "export_job_id": "742a46ea-b540-40a7-9739-4fa7eccc6a02",
   "id_short": 843859,
-  "published_at": "2026-04-15T07:39:02Z",
+  "published_at": "2026-04-19T07:15:46Z",
   "repo_name": "top-30-active-restaurant-whales-in-san-jose-us-sample-843859",
   "sample_asset_name": "beamstation_843859_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/843859/beamstation_843859_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 69,
   "sample_sha256": "f0476967b6f3828b94ba34438ec263222912f6d077194f395d1aa97a5ad43cd6",
   "sample_size_bytes": 291674,
-  "total_records": 517
+  "total_records": 698
 }
