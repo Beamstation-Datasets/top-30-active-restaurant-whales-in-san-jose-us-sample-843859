@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Whales in San Jose, US",
-  "export_job_id": "526f6a5c-ba80-4c02-9aa8-04ed51eff9b5",
+  "export_job_id": "742a46ea-b540-40a7-9739-4fa7eccc6a02",
   "github_org": "Beamstation-Datasets",
   "id_short": 843859,
   "location_name": "San Jose",
   "location_type": "city",
   "repo_name": "top-30-active-restaurant-whales-in-san-jose-us-sample-843859",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/843859/beamstation_843859_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 13.35,
+  "sample_pct": 9.89,
   "sample_records": 69,
   "sample_sha256": "f0476967b6f3828b94ba34438ec263222912f6d077194f395d1aa97a5ad43cd6",
   "sample_size_bytes": 291674,
-  "total_records": 517,
-  "updated_at": "2026-04-01T00:27:58.592986+00:00"
+  "total_records": 698,
+  "updated_at": "2026-04-15T02:10:30.010844+00:00"
 }
