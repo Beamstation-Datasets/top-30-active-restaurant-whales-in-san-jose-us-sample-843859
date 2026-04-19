@@ -9,9 +9,9 @@
 | Dataset ID | `843859` |
 | Location | San Jose |
 | Category | Restaurants |
-| Full dataset size | 517 records |
-| Free sample size | 69 records (13.35%) |
-| Last export | 2026-04-01T00:27:58.592986+00:00 |
+| Full dataset size | 698 records |
+| Free sample size | 69 records (9.89%) |
+| Last export | 2026-04-15T02:10:30.010844+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-san-jose-us-sample-843859/releases/download/sample-latest/beamstation_843859_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
